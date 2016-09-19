@@ -21,6 +21,6 @@ Dowload the arduino code <a href="ArduJavaLED.ino">here </a> oppen it modify the
 Create a new project and follow <a href="http://rxtx.qbang.org/wiki/index.php/Using_RXTX_In_Eclipse">this</a> steps, now add this two .java files <a href="LED_Arduino.java">LED_Arduino.java</a>, <a href="config.java">config.java </a>to your src folder and change the package name
 
 This is all of it you do any modification or you colplete i would like to see it Thank's for reading
-For anything im Diego Gonzalez and this is <a href="mailto:diegozalezz@gmail.com">my Email</a>: diegozalezz@gmail.com  
+For anything im Diego Gonzalez and this is my Email: diegozalezz@gmail.com  
 
 
