@@ -1,4 +1,4 @@
-package LEDProyecto;
+package LEDProyecto;//##MUST CHANGE THIS FOR YOUR PACKAGE NAME##
 
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
