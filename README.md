@@ -8,7 +8,13 @@ If you want to make this first you need to have a java ide, i recoment eclipse s
 
 <h1>First step: Libraries</h1>
 Start with the neopixel Library for arduino if you know how to instal a library the donwload link is <a href="https://github.com/adafruit/Adafruit_NeoPixel/archive/master.zip">here</a> if not <a href="https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation">here </a>is a great tutorial
-Now the RXTX libray for java is left, this one was very hard for my due to the otdated post for mac OS in this case follow <a href=""></a>
-
-<a href=""></a>
+Now the RXTX libray for java is left, this one was very hard for my due to the otdated post for mac OS in this case follow <a href="this tutorial "></a>for others operation system check the <a href="http://rxtx.qbang.org/wiki/index.php/Installation"> oficial web instalation guide </a>
+<h1>Second step: Hardware</h1>
+This is very easy just follow this sketch 
+<a href="https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections
+" target="_blank"><img src="https://cdn-learn.adafruit.com/assets/assets/000/030/892/original/leds_Wiring-Diagram.png?1456961114" 
+alt="Adafruid sketch" width="300" height="180" border="10" /></a>
+click on the picture for more info
+<h1>
+<a href=""></a><a href=""></a>
 
