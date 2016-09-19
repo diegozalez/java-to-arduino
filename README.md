@@ -16,7 +16,7 @@ This is very easy just follow this sketch
 alt="Adafruid sketch" width="300" height="180" border="10" /></a>
 click on the picture for more info
 <h1>Third step:Arduino</h1>
-<a href="ArduJavaLED.ino"></a>
+Dowload the arduino code <a href="ArduJavaLED.ino">here </a> oppen it modify the code if you have more LED's and upload to the arduino
 
 
 <a href=""></a><a href=""></a>
