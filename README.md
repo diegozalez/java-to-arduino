@@ -15,9 +15,9 @@ This is very easy just follow this sketch
 " target="_blank"><img src="https://cdn-learn.adafruit.com/assets/assets/000/030/892/original/leds_Wiring-Diagram.png?1456961114" 
 alt="Adafruid sketch" width="300" height="180" border="10" /></a>
 click on the picture for more info
-<h1>Third step:Arduino</h1>
+<h1>Third step: Arduino</h1>
 Dowload the arduino code <a href="ArduJavaLED.ino">here </a> oppen it modify the code if you have diferent amount of LED's and upload to the arduino
-<h1>Forth step:Eclipse</h1>
+<h1>Forth step: Eclipse</h1>
 Create a new project and follow <a href="http://rxtx.qbang.org/wiki/index.php/Using_RXTX_In_Eclipse">this</a> steps, now add this two .java files <a href=""></a><a href=""></a>to your src folder and change the package name 
 
 
