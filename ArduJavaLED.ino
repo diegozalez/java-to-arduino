@@ -12,7 +12,7 @@
 #include <Wire.h>
 #include <Adafruit_NeoPixel.h>
 #define NEO 6 //***CHAGE THIS FOR THE PIN YOU CONECT YOUR LED's***
-#define numPixel 32//***CHAGE THIS FOR THE NUMBER OF LED's***
+#define numPixel 24//***CHAGE THIS FOR THE NUMBER OF LED's***
 Adafruit_NeoPixel LED = Adafruit_NeoPixel(numPixel, NEO, NEO_GRB + NEO_KHZ800);//inicialice the LED's
 int Byte_entrada = 0;//store the last message send
 int a = 0;//keep count of the number of package send
